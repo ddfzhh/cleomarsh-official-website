@@ -1,0 +1,17 @@
+{
+  "count": 12,
+  "width": 492,
+  "height": 720,
+  "sourceWidth": 1280,
+  "sourceHeight": 720,
+  "crop": [
+    384,
+    0,
+    876,
+    720
+  ],
+  "duration": 4,
+  "model": "seedance2.5",
+  "alpha": "imagegen-per-frame",
+  "stepped": true
+}
