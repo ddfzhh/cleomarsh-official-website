@@ -24,11 +24,7 @@ Then open http://127.0.0.1:8765/. Use an HTTP server, not `file://`, because the
 
 ## Deploy
 
-Vercel project `cleomarsh-official-website`, Root Directory `dist`, Framework Preset `Other`.
-
-```bash
-vercel --prod
-```
+Vercel project `cleomarsh-official-website`, Root Directory `dist`, Framework Preset `Other`. Every push to `main` deploys to production.
 
 ## Contact form
 
